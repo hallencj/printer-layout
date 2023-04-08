@@ -1,7 +1,7 @@
 <template>
   <v-card id="not-for-print" class="ma-12">
     <div class="white--text primary px-6 py-2">
-      <h1 class="font-weight-medium">Printing Layout Application</h1>
+      <h1 class="font-weight-medium">Printing Layout Application - v1.0</h1>
       <h3 class="font-weight-regular mt-n1">by Hallen Cj Corpuz</h3>
     </div>
     
