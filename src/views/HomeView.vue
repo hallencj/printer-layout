@@ -1,8 +1,16 @@
 <template>
   <v-card id="not-for-print" class="ma-12">
     <div class="white--text primary px-6 py-2">
-      <h1 class="font-weight-medium">Printing Layout Application - v1.0</h1>
-      <h3 class="font-weight-regular mt-n1">by Hallen Cj Corpuz</h3>
+      <v-row align="center" dense>
+        <v-col>
+          <h1 class="font-weight-medium">Printing Layout Application - v1.0</h1>
+          <h3 class="font-weight-regular mt-n1">by Hallen Cj Corpuz</h3>
+        </v-col>
+
+        <v-col cols="auto">
+          <v-btn disabled dark>CUSTOMIZE</v-btn>
+        </v-col>
+      </v-row>
     </div>
     
     <div class="pa-6">
