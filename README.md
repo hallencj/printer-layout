@@ -1,6 +1,6 @@
 # Printer Layout
 
-Printer Layout is a web application that helps businesses on printing images based on the sizes that they want.
+Printer Layout is a web application that helps user to print image based on the set configurations.
 
 # Feature
 
